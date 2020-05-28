@@ -7,5 +7,4 @@ Paginas
 
 [Pagina Secundarial](https://kunaibr.github.io/JogosWeb/Web/index2.html)
 
-[Interações](https://kunaibr.github.io/JogosWeb/Web/nteracion/Snap.html)
 
