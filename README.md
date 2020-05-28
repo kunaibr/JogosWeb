@@ -5,4 +5,5 @@ Paginas
 
 [Pagina inicial](https://kunaibr.github.io/JogosWeb/Web/index.html)
 
+[Interações](https://kunaibr.github.io/JogosWeb/Web/nteracion/Snap.html)
 
